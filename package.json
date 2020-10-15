@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jvongsana/bootcamp_app/issues"
   },
-  "homepage": "https://github.com/jvongsana/bootcamp_app#readme"
+  "homepage": "https://github.com/jvongsana/bootcamp_app#readme",
+  "dependencies": {
+    "pg": "^8.4.1"
+  }
 }
