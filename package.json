@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "students.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvongsana/bootcamp_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvongsana/bootcamp_app/issues"
+  },
+  "homepage": "https://github.com/jvongsana/bootcamp_app#readme"
+}
